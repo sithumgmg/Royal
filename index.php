@@ -1,3 +1,3 @@
 <?php 
-echo date(30-01-2021);
+echo date();
  ?>
