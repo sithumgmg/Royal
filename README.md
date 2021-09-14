@@ -1,3 +1,0 @@
-# Royal
-|POS App Developement|
-| ------------------ |
